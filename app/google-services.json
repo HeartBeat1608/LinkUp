@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443083335592",
+    "firebase_url": "https://linkup-2efc5.firebaseio.com",
+    "project_id": "linkup-2efc5",
+    "storage_bucket": "linkup-2efc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443083335592:android:f47d45e717e8dbb6",
+        "android_client_info": {
+          "package_name": "com.bluerose.linkup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443083335592-722qgjaeq2pf643taol3iuu8v728450o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluerose.linkup",
+            "certificate_hash": "23a9e144531887967e985c28f4f7cd402055fd6f"
+          }
+        },
+        {
+          "client_id": "443083335592-kmjotlsk3umcrnb26mgisj215rnni0pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2wKFLqQ_RjVz08mgwJefklBb3Me9kQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443083335592-kmjotlsk3umcrnb26mgisj215rnni0pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
