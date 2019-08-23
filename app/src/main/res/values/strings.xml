@@ -28,4 +28,6 @@
 
     <string name="hello_chat_fragment">Hello Chat fragment</string>
     <string name="hello_user_fragment">Hello User fragment</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="btn_send_desc">Send the Message</string>
 </resources>
