@@ -20,6 +20,8 @@ public class User {
 
     }
 
+    @NotNull
+    @NonNull
     public String getId() {
         return id;
     }
