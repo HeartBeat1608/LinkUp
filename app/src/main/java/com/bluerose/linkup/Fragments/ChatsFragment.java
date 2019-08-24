@@ -31,7 +31,6 @@ public class ChatsFragment extends Fragment {
 
     private RecyclerView recyclerView;
 
-    private UserAdapter userAdapter;
     private List<User> mUsers;
 
     private FirebaseUser firebaseUser;
