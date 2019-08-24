@@ -1,11 +1,5 @@
 package com.bluerose.linkup;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -13,6 +7,12 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.bluerose.linkup.Adaptor.MessageAdapter;
 import com.bluerose.linkup.Model.Chat;
@@ -154,8 +154,6 @@ public class MessageActivity extends AppCompatActivity {
 
                     messageAdapter = new MessageAdapter(MessageActivity.this, mChats, imageurl);
                 }
-
-
             }
 
             @Override
